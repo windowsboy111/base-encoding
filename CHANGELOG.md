@@ -4,6 +4,10 @@
 ---
 
 ## [Unreleased]
+### Added
+- support for string encoding / decoding
+### Changed
+- those functions are now in classes
 
 ## [0.1.0-a]
 ### Added
