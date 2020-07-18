@@ -18,6 +18,6 @@
 - support for base64, 128 and 256 for int only
 
 
-[Unreleased]:   https://github.com/windowsboy111/base-encoding/compare/0.1.0-b...HEAD
+[Unreleased]:   https://github.com/windowsboy111/base-encoding/compare/0.1.0-b...HEAD   
 [0.1.0-b]:      https://github.com/windowsboy111/base-encoding/compare/0.1.0-a...0.1.0-b
 [0.1.0-a]:      https://github.com/windowsboy111/base-encoding/releases/tag/0.1.0-a
