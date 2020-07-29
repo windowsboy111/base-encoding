@@ -3,6 +3,12 @@
 
 ---
 ## [Unreleased]
+### Added
+- custom encoding / decoding
+- base512
+- alt128
+### Changed
+- alt128 is now default
 
 ## [0.1.0-b]
 ### Added
